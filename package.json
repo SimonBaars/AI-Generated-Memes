@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@waylaidwanderer/chatgpt-api": "^1.33.0"
+  }
+}
