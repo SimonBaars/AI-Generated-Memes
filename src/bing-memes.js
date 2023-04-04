@@ -69,7 +69,7 @@ let clientState = [null, null, 1, {
     userToken: process.env.BING_AI,
     debug: false,
 }];
-for(let x = 9; x<=1000; x++) {
+for(let x = 1; x<=1000; x++) {
     // Construct question
     let question;
     if(clientState[2] === 1) { // New convo
