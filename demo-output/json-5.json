@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma",
+    "top": "When you finally finish your online degree",
+    "bottom": "But you still don't know how to use Zoom"
+  },
+  {
+    "image": "a cat with a shocked expression looking at a laptop screen",
+    "top": "When you accidentally open the front camera",
+    "bottom": "And see how you look in the morning"
+  },
+  {
+    "image": "a man dressed as a leprechaun holding a pot of gold",
+    "top": "When you find out you won the lottery",
+    "bottom": "But it's April Fools' Day"
+  },
+  {
+    "image": "a woman crying while holding a coffee mug",
+    "top": "When you run out of coffee",
+    "bottom": "And it's only Monday"
+  },
+  {
+    "image": "a baby with a smug face wearing sunglasses",
+    "top": "When you're the youngest sibling",
+    "bottom": "And you get away with everything"
+  },
+  {
+    "image": "a goat with a gothic makeup and hairstyle",
+    "top": "When you're a goth girl",
+    "bottom": "But you also love animals"
+  },
+  {
+    "image": "a fish with a human face and a suit",
+    "top": "When you're a professional",
+    "bottom": "But you also have standards"
+  },
+  {
+    "image": "a bear with a rainbow fur and a sad expression",
+    "top": "When life gives you rainbows",
+    "bottom": "But you're still not happy"
+  },
+  {
+    "image": "a bride and a groom running away from a dinosaur",
+    "top": "When you plan your wedding in 2023",
+    "bottom": "But life finds a way"
+  },
+  {
+    "image": "a sun with a face and sunglasses smiling at the earth",
+    "top": "",
+    "bottom": "'Sup, Earth? You're looking hot today."
+  }
+]}
+```

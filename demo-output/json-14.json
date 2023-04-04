@@ -1,0 +1,56 @@
+```json
+{
+  "memes": [
+    {
+      "image": "a cat wearing a suit and tie in front of a laptop",
+      "top": "I'm sorry boss",
+      "bottom": "I can't work today. I have a bad case of the zoomies."
+    },
+    {
+      "image": "a dog with a cone around its neck and a sad expression",
+      "top": "They told me I was going to the park",
+      "bottom": "They lied."
+    },
+    {
+      "image": "a man holding a sign that says 'I'm not a bot'",
+      "top": "When you pass the captcha test",
+      "bottom": "on the first try"
+    },
+    {
+      "image": "a woman looking at two buttons with sweat on her forehead. One button says 'Reply all' and the other says 'Reply'",
+      "top": "",
+      "bottom": "The most stressful decision of 2023"
+    },
+    {
+      "image": "a baby shark with sunglasses and a hat",
+      "top": "Baby shark doo doo doo doo doo doo",
+      "bottom": "is still stuck in your head"
+    },
+    {
+      "image": "a pizza with pineapple and ham on it",
+      "top": "Say what you want about pineapple on pizza",
+      "bottom": "but it's still better than anchovies"
+    },
+    {
+      "image": "a man wearing a mask and holding a toilet paper roll",
+      "top": "2020 be like",
+      "bottom": ""
+    },
+    {
+      "image": "a woman pointing at a cat sitting on a table. The cat has a smug expression",
+      "top": "Woman: You can't just sit there and judge me",
+      "bottom": "Cat: I can and I will"
+    },
+    {
+      "image": "a bear holding a fish in its mouth",
+      "top": "",
+      "bottom": "Just one more episode, I promise"
+    },
+    {
+      "image": "a man looking at his phone with a shocked expression",
+      "top": "",
+      "bottom": "*reads headline* iPhone 14 explodes in user's pocket"
+    }
+  ]
+}
+```

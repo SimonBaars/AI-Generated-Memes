@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and sunglasses in a boardroom",
+    "top": "I don't always call a meeting",
+    "bottom": "But when I do, it's to nap on the table"
+  },
+  {
+    "image": "a dog with a birthday hat and a cake",
+    "top": "Happy birthday to me",
+    "bottom": "Now where's the beef?"
+  },
+  {
+    "image": "a baby with a shocked expression and a hand on his mouth",
+    "top": "When you find out",
+    "bottom": "Your mom is also your aunt"
+  },
+  {
+    "image": "a man holding a sign that says 'I'm not a gynecologist but I'll take a look'",
+    "top": "Ladies, please form an orderly line",
+    "bottom": "No pushing or shoving"
+  },
+  {
+    "image": "a woman looking at two buttons, one says 'stay calm' and the other says 'panic'",
+    "top": "When you have to choose between",
+    "bottom": "Staying calm or panicking"
+  },
+  {
+    "image": "a penguin sliding on its belly on the snow",
+    "top": "I'm not lazy",
+    "bottom": "I'm just energy efficient"
+  },
+  {
+    "image": "a bear holding a fish in its mouth",
+    "top": "They said I could be anything",
+    "bottom": "So I became a sushi chef"
+  },
+  {
+    "image": "a man wearing a helmet and goggles with a jetpack on his back",
+    "top": "How I think I look when I wear a jetpack",
+    "bottom": "(image of Iron Man flying)"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling",
+    "top": "(image of Oprah Winfrey saying 'You get a car!')",
+    "bottom": "Me after one glass of wine"
+  },
+  {
+    "image": "a frog wearing a crown and a cape",
+    "top": "(image of Kermit the Frog saying 'It's not easy being green')",
+    "bottom": "(image of Kermit the Frog saying 'But it's fun being king')"
+  }
+]}
+```

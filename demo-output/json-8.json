@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in a boardroom",
+    "top": "I don't always call a meeting",
+    "bottom": "But when I do, it's to ask who ate my tuna sandwich"
+  },
+  {
+    "image": "a dog with sunglasses and a bandana driving a motorcycle",
+    "top": "Born to be wild",
+    "bottom": "But only until 9 pm"
+  },
+  {
+    "image": "a baby with a shocked expression holding a spoon",
+    "top": "When you find out",
+    "bottom": "Your mom is not your real mom"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "How I feel on Monday mornings",
+    "bottom": ""
+  },
+  {
+    "image": "a woman yelling at a confused cat sitting at a table",
+    "top": "Karen: You can't just sit there and do nothing",
+    "bottom": "Cat: I literally can"
+  },
+  {
+    "image": "a man holding a sign that says 'I'm not a gynecologist but I'll take a look'",
+    "top": "",
+    "bottom": "Trust me, I'm a doctor"
+  },
+  {
+    "image": "a bear holding a fish in its mouth",
+    "top": "This is my fish",
+    "bottom": "There are many like it, but this one is mine"
+  },
+  {
+    "image": "a woman crying while holding a glass of wine",
+    "top": "Me after watching Titanic for the 10th time",
+    "bottom": ""
+  },
+  {
+    "image": "a man wearing a horse mask and a suit",
+    "top": "",
+    "bottom": "Business in the front, party in the back"
+  },
+  {
+    "image": "a squirrel with a nut in its mouth",
+    "top": "",
+    "bottom": "*Nut* today, Satan"
+  }
+]}
+```

@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in a boardroom",
+    "top": "I don't always call a meeting",
+    "bottom": "But when I do, it's to ask who ate my tuna sandwich"
+  },
+  {
+    "image": "a baby with a shocked expression holding a spoon",
+    "top": "When you find out",
+    "bottom": "Your mom is not a plane"
+  },
+  {
+    "image": "a dog with sunglasses driving a car",
+    "top": "Move over, humans",
+    "bottom": "This is how I roll"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "They see me slidin'",
+    "bottom": "They hatin'"
+  },
+  {
+    "image": "a woman yelling at a confused cat at a dinner table",
+    "top": "Karen: You can't just sit there and do nothing",
+    "bottom": "Cat: I'm a cat, Karen"
+  },
+  {
+    "image": "a man holding a pineapple and looking at it skeptically",
+    "top": "How do you know",
+    "bottom": "If a pineapple is ripe?"
+  },
+  {
+    "image": "a bear holding a fish in its mouth and smiling",
+    "top": "Just caught dinner",
+    "bottom": "#winning"
+  },
+  {
+    "image": "a frog wearing a crown and sitting on a throne",
+    "top": "Bow down to me",
+    "bottom": "For I am the king of the swamp"
+  },
+  {
+    "image": "a duck wearing a hat and a monocle",
+    "top": "Good day, sir",
+    "bottom": "I'm here to quack you up"
+  },
+  {
+    "image": "a cow jumping over the moon with a rocket strapped to its back",
+    "top": "To infinity",
+    "bottom": "And beyond"
+  }
+]}
+```

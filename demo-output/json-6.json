@@ -1,0 +1,56 @@
+```json
+{
+  "memes": [
+    {
+      "image": "an illustration of a dog wearing a graduation cap and holding a diploma",
+      "top": "I FINALLY GRADUATED",
+      "bottom": "FROM OBEDIENCE SCHOOL"
+    },
+    {
+      "image": "a photo of a man with a surprised expression and a woman with a smug expression",
+      "top": "WHEN SHE SAYS SHE'S PREGNANT",
+      "bottom": "AND YOU KNOW YOU'RE STERILE"
+    },
+    {
+      "image": "a painting of Mona Lisa with a face mask",
+      "top": "WHEN YOU HAVE TO WEAR A MASK",
+      "bottom": "BUT YOU STILL WANT TO SMILE"
+    },
+    {
+      "image": "a cartoon of Spongebob Squarepants and Patrick Star laughing hysterically",
+      "top": "WHEN YOU SEE A FUNNY MEME",
+      "bottom": "ON BING CHAT MODE"
+    },
+    {
+      "image": "a photo of a cat with a grumpy expression and a slice of bread on its head",
+      "top": "I AM NOT A CAT",
+      "bottom": "I AM BREAD"
+    },
+    {
+      "image": "a photo of a woman crying and holding a glass of wine",
+      "top": "WHEN YOU FINISH WATCHING BRIDGERTON",
+      "bottom": "AND REALIZE IT'S NOT REAL"
+    },
+    {
+      "image": "a photo of a man pointing at his temple and smiling",
+      "top": "YOU CAN'T FAIL A TEST",
+      "bottom": "IF YOU DON'T TAKE IT"
+    },
+    {
+      "image": "a photo of a baby with a confused expression and a hand on its chin",
+      "top": "HOW DO THEY MAKE BABIES?",
+      "bottom": "DO THEY USE A PRINTER?"
+    },
+    {
+      "image": "a photo of a woman holding a sign that says 'I love you'",
+      "top": "WHEN YOU TRY TO CONFESS YOUR FEELINGS",
+      "bottom": "BUT SHE THINKS IT'S A PRANK"
+    },
+    {
+      "image": "a photo of a penguin sliding on its belly on the snow",
+      "top": "WHEN YOU'RE LATE FOR WORK",
+      "bottom": "BUT YOU DON'T CARE"
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "memes": [
+    {
+      "image": "a cat wearing a suit and tie in front of a laptop",
+      "top": "I'm not a cat",
+      "bottom": "I'm here live"
+    },
+    {
+      "image": "a dog with a cone around its neck and a sad expression",
+      "top": "When you have to wear a mask",
+      "bottom": "But you forgot to shave"
+    },
+    {
+      "image": "a man holding a sign that says 'I'm not a robot'",
+      "top": "When you fail the captcha test",
+      "bottom": "For the fifth time"
+    },
+    {
+      "image": "a woman looking at two buttons with sweat drops on her forehead",
+      "top": "Buy Bitcoin",
+      "bottom": "Sell Bitcoin"
+    },
+    {
+      "image": "a baby with sunglasses and a leather jacket",
+      "top": "How I feel after getting vaccinated",
+      "bottom": "Too cool for school"
+    },
+    {
+      "image": "a penguin sliding on its belly on the ice",
+      "top": "Me on Monday morning",
+      "bottom": "Trying to get to work"
+    },
+    {
+      "image": "a man pointing at his head and smiling",
+      "top": "You can't get hacked",
+      "bottom": "If you don't have a computer"
+    },
+    {
+      "image": "a woman holding a glass of wine and laughing",
+      "top": "When you see your ex's new partner",
+      "bottom": "And they look like Shrek"
+    },
+    {
+      "image": "a bear holding a fish in its mouth",
+      "top": "When you finally catch a break",
+      "bottom": "But it's too small to eat"
+    },
+    {
+      "image": "a man wearing a VR headset and holding a gun",
+      "top": "When you play Call of Duty in VR",
+      "bottom": "And your mom walks in"
+    }
+  ]
+}
+```

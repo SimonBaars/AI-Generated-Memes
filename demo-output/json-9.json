@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in front of a laptop",
+    "top": "I'm not a cat",
+    "bottom": "I'm here live"
+  },
+  {
+    "image": "a dog with a cone around its neck and a sad expression",
+    "top": "When you try to lick your own butt",
+    "bottom": "But the vet says no"
+  },
+  {
+    "image": "a baby with sunglasses and a leather jacket",
+    "top": "How I feel when I finish my homework",
+    "bottom": "Before the deadline"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "Me on Monday morning",
+    "bottom": "Trying to get to work"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling",
+    "top": "When you're on a Zoom call",
+    "bottom": "But you're secretly drunk"
+  },
+  {
+    "image": "a man pointing at his head and smiling",
+    "top": "You can't fail the test",
+    "bottom": "If you don't take the test"
+  },
+  {
+    "image": "a bear holding a fish in its mouth",
+    "top": "When you finally catch a break",
+    "bottom": "But it's too small to eat"
+  },
+  {
+    "image": "a frog wearing a crown and sitting on a throne",
+    "top": "When you're the king of the swamp",
+    "bottom": "But nobody respects you"
+  },
+  {
+    "image": "a man wearing a mask and holding a gun",
+    "top": "When you rob a bank",
+    "bottom": "But they only have Bitcoin"
+  },
+  {
+    "image": "a woman crying and eating ice cream",
+    "top": "When you break up with your boyfriend",
+    "bottom": "But he was your Uber driver"
+  }
+]}
+```

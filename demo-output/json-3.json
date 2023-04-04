@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in a boardroom",
+    "top": "I don't always call a meeting",
+    "bottom": "But when I do, it's to ask who ate my tuna sandwich"
+  },
+  {
+    "image": "a dog with a cone around its neck and a sad expression",
+    "top": "They said it would be fun",
+    "bottom": "They lied"
+  },
+  {
+    "image": "a baby with a fist in the air and a determined face",
+    "top": "One day",
+    "bottom": "I will rule the world"
+  },
+  {
+    "image": "a woman looking at two buttons with sweat on her forehead",
+    "top": "Reply to a chat message from Bing",
+    "bottom": "Or ignore it and pretend you're busy"
+  },
+  {
+    "image": "a man holding a pineapple and smiling",
+    "top": "Pineapple on pizza is delicious",
+    "bottom": "Change my mind"
+  },
+  {
+    "image": "a penguin sliding on its belly on the snow",
+    "top": "When you're late for work",
+    "bottom": "But you don't care"
+  },
+  {
+    "image": "a frog wearing glasses and a hat",
+    "top": "Hello there",
+    "bottom": "General Kenobi"
+  },
+  {
+    "image": "a bear holding a fish in its mouth and looking at the camera",
+    "top": "I see you're a man of culture as well",
+    "bottom": ""
+  },
+  {
+    "image": "a woman crying and pointing at a laptop screen",
+    "top": "",
+    "bottom": "Why won't Bing generate memes for me?"
+  },
+  {
+    "image": "a duck wearing sunglasses and a leather jacket",
+    "top": "",
+    "bottom": "I'm too cool for school"
+  }
+]}
+```

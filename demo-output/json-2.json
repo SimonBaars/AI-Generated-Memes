@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat with a sombrero and a mustache",
+    "top": "I don't always eat tacos",
+    "bottom": "But when I do, I make them purr-fect"
+  },
+  {
+    "image": "a baby with a shocked expression",
+    "top": "When you find out",
+    "bottom": "You were adopted from a meme page"
+  },
+  {
+    "image": "a man holding a sign that says 'I'm not a gynecologist but I'll take a look'",
+    "top": "",
+    "bottom": "Trust me, I'm a doctor"
+  },
+  {
+    "image": "a woman crying and pointing at a laptop screen",
+    "top": "Me after watching",
+    "bottom": "The Squid Game finale"
+  },
+  {
+    "image": "a dog wearing sunglasses and a leather jacket",
+    "top": "How I think I look",
+    "bottom": "When I walk into a party"
+  },
+  {
+    "image": "a penguin sliding on its belly",
+    "top": "Me on Monday morning",
+    "bottom": "Trying to get to work on time"
+  },
+  {
+    "image": "a man with a confused expression and a question mark over his head",
+    "top": "When someone asks me",
+    "bottom": "What is a meme?"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling",
+    "top": "I don't need therapy",
+    "bottom": "I just need more memes"
+  },
+  {
+    "image": "a man with a beard and glasses wearing a t-shirt that says 'I'm not arguing, I'm explaining why I'm right'",
+    "top": "",
+    "bottom": "Me in every online debate"
+  },
+  {
+    "image": "a frog with a sad expression",
+    "top": "When you run out of memes",
+    "bottom": "*sad frog noises*"
+  }
+]}
+```

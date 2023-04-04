@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in front of a laptop",
+    "top": "I'm not a cat",
+    "bottom": "I'm here live"
+  },
+  {
+    "image": "a dog with a birthday hat and a cake",
+    "top": "Happy birthday to me",
+    "bottom": "No one else showed up"
+  },
+  {
+    "image": "a baby with sunglasses and a leather jacket",
+    "top": "I don't always drink milk",
+    "bottom": "But when I do, I prefer the breast"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "They see me rollin'",
+    "bottom": "They hatin'"
+  },
+  {
+    "image": "a woman yelling at a confused cat at a dinner table",
+    "top": "You said you wanted to try something new",
+    "bottom": "This is salad, Karen"
+  },
+  {
+    "image": "a man holding a sign that says 'I'm not homeless'",
+    "top": "",
+    "bottom": "I just need money for more memes"
+  },
+  {
+    "image": "a bear holding a fish in its mouth",
+    "top": "",
+    "bottom": "One does not simply walk into Mordor"
+  },
+  {
+    "image": "a frog with a cup of tea",
+    "top": "",
+    "bottom": "But that's none of my business"
+  },
+  {
+    "image": "a woman looking at two buttons with sweat on her face",
+    "top": "",
+    "bottom": "Bing or Google"
+  },
+  {
+    "image": "a man pointing at his head and smiling",
+    "top": "",
+    "bottom": "(insert clever caption here)"
+  }
+]}
+```

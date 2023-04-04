@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in front of a laptop",
+    "top": "I'm sorry boss",
+    "bottom": "I can't work today. I have a bad case of the zoomies."
+  },
+  {
+    "image": "a dog with a cone around its neck and a sad expression",
+    "top": "When you try to lick your own butt",
+    "bottom": "But you end up in the cone of shame"
+  },
+  {
+    "image": "a baby with a surprised face and a hand on its mouth",
+    "top": "When you find out",
+    "bottom": "Your parents are actually siblings"
+  },
+  {
+    "image": "a man with a beard and glasses holding a sign that says 'Change my mind'",
+    "top": "Pineapple belongs on pizza",
+    "bottom": "Change my mind"
+  },
+  {
+    "image": "a woman with a face mask and gloves holding a toilet paper roll",
+    "top": "2020 be like",
+    "bottom": "Gotta catch 'em all"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "Me on Monday morning",
+    "bottom": "Trying to get to work on time"
+  },
+  {
+    "image": "a frog with a tea cup and a smug expression",
+    "top": "That's none of my business",
+    "bottom": "But you should probably get tested"
+  },
+  {
+    "image": "a man with a confused face looking at a math equation on a board",
+    "top": "When someone tries to explain",
+    "bottom": "How cryptocurrency works"
+  },
+  {
+    "image": "a woman with a shocked face looking at her phone",
+    "top": "When you accidentally swipe right",
+    "bottom": "On your ex's profile"
+  },
+  {
+    "image": "a bear with sunglasses and a hat sitting in a car",
+    "top": "'Sup ladies?",
+    "bottom": "'Just bear with me'"
+  }
+]}
+```
