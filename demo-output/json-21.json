@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma",
+    "top": "I finally graduated",
+    "bottom": "from obedience school"
+  },
+  {
+    "image": "a man with a shocked expression looking at his laptop screen",
+    "top": "When you accidentally",
+    "bottom": "send a meme to your boss"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling",
+    "top": "It's Friday night",
+    "bottom": "and I'm ready to party"
+  },
+  {
+    "image": "a cat with sunglasses and a hat sitting on a couch",
+    "top": "I don't always chill",
+    "bottom": "but when I do, I chill hard"
+  },
+  {
+    "image": "a baby with a fist in the air and a determined expression",
+    "top": "I came here",
+    "bottom": "to drink milk and kick ass"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "How I feel",
+    "bottom": "when I finish my work early"
+  },
+  {
+    "image": "a squirrel holding a nut and looking at the camera",
+    "top": "I see you have",
+    "bottom": "some nuts there"
+  },
+  {
+    "image": "a bear standing on its hind legs and waving",
+    "top": "Hello there",
+    "bottom": "I'm just a friendly bear"
+  },
+  {
+    "image": "a pizza with pineapple toppings and a sad face",
+    "top": "Why does everyone hate me?",
+    "bottom": "I'm delicious"
+  },
+  {
+    "image": "a frog wearing a crown and sitting on a throne",
+    "top": "Bow down",
+    "bottom": "to your king"
+  }
+]}
+```

@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma",
+    "top": "I finally graduated",
+    "bottom": "from obedience school"
+  },
+  {
+    "image": "a man with a shocked expression looking at his laptop screen",
+    "top": "When you accidentally",
+    "bottom": "send a meme to your boss"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling",
+    "top": "It's Friday night",
+    "bottom": "time to wine down"
+  },
+  {
+    "image": "a baby with a serious face and sunglasses",
+    "top": "I don't always drink milk",
+    "bottom": "but when I do, I prefer the breast"
+  },
+  {
+    "image": "a cat with a grumpy face",
+    "top": "I hate Mondays",
+    "bottom": "and Tuesdays, and Wednesdays, and Thursdays..."
+  },
+  {
+    "image": "a man with a confused expression looking at a math equation on a board",
+    "top": "Quick maths",
+    "bottom": "2 + 2 is 4, minus 1 that's 3"
+  },
+  {
+    "image": "a woman with a surprised expression looking at her phone",
+    "top": "When you get a text",
+    "bottom": "from your crush"
+  },
+  {
+    "image": "a penguin sliding on its belly on the snow",
+    "top": "Slide into the DMs like",
+    "bottom": ""
+  },
+  {
+    "image": "a man with a smug expression holding a trophy",
+    "top": "",
+    "bottom": "First place in the meme contest"
+  },
+  {
+    "image": "a woman with a disgusted expression looking at a plate of food",
+    "top": "When your mom says",
+    "bottom": "\"eat your vegetables\""
+  }
+]}
+```

@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing sunglasses and a hat with the text \"deal with it\"",
+    "top": "When you snitch on your owner",
+    "bottom": "for jacking off in his room"
+  },
+  {
+    "image": "a man holding a coffee mug with the text \"world's best dad\"",
+    "top": "When you prank your kids",
+    "bottom": "on April Fools' Day"
+  },
+  {
+    "image": "a cat with a rainbow behind it and the text \"nyan cat\"",
+    "top": "When you finally find happiness",
+    "bottom": "at the end of the rainbow"
+  },
+  {
+    "image": "a woman wearing a wedding dress and holding a bouquet with the text \"runaway bride\"",
+    "top": "When you realize",
+    "bottom": "he's not the one"
+  },
+  {
+    "image": "a man wearing a green hat and a beard with the text \"leprechaun\"",
+    "top": "When you're Irish",
+    "bottom": "and it's St. Patrick's Day"
+  },
+  {
+    "image": "a woman holding a glass of wine with the text \"Karen\"",
+    "top": "When you ask to speak",
+    "bottom": "to the manager"
+  },
+  {
+    "image": "a baby with a fist in the air and the text \"success kid\"",
+    "top": "When you finally",
+    "bottom": "pay off your taxes"
+  },
+  {
+    "image": "a woman crying with mascara running down her face and the text \"first world problems\"",
+    "top": "When your Starbucks order",
+    "bottom": "is wrong"
+  },
+  {
+    "image": "a man pointing at his head with the text \"roll safe\"",
+    "top": "You can't lose your virginity",
+    "bottom": "if you never have sex"
+  },
+  {
+    "image": "a penguin wearing a sombrero and holding a taco with the text \"penguino\"",
+    "top": "When you're Mexican",
+    "bottom": "and it's Cinco de Mayo"
+  }
+]}
+```

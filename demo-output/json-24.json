@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing sunglasses and holding a beer bottle",
+    "top": "When you're home alone",
+    "bottom": "And you hear your parents' car pull up"
+  },
+  {
+    "image": "a baby with a shocked expression and a hand on his mouth",
+    "top": "When you accidentally",
+    "bottom": "Say \"mama\" instead of \"dada\""
+  },
+  {
+    "image": "a cat sitting on a laptop keyboard",
+    "top": "When you're working from home",
+    "bottom": "And your cat decides to join the zoom meeting"
+  },
+  {
+    "image": "a man wearing a mask and holding a sign that says \"I'm not sick, I just have allergies\"",
+    "top": "When you sneeze in public",
+    "bottom": "And everyone stares at you"
+  },
+  {
+    "image": "a woman crying and eating ice cream",
+    "top": "When you watch the finale of your favorite show",
+    "bottom": "And it ends on a cliffhanger"
+  },
+  {
+    "image": "a penguin wearing a tuxedo and holding a glass of champagne",
+    "top": "When you dress to impress",
+    "bottom": "But no one notices you"
+  },
+  {
+    "image": "a bear holding a fish and smiling",
+    "top": "When you catch a big fish",
+    "bottom": "And your friends are jealous"
+  },
+  {
+    "image": "a turtle with a jetpack and sunglasses",
+    "top": "When you're slow but cool",
+    "bottom": "And you don't care what anyone thinks"
+  },
+  {
+    "image": "a banana with a face and arms holding a gun",
+    "top": "\"This is a robbery!\"",
+    "bottom": "\"Give me all your potassium!\""
+  },
+  {
+    "image": "a unicorn with rainbow hair and wings playing guitar",
+    "top": "\"I'm not like other girls\"",
+    "bottom": "\"I'm a rockstar\""
+  }
+]}
+```

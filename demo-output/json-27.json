@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a photo of a dog wearing sunglasses and a hat with the caption \"deal with it\"",
+    "top": "When you finish your homework",
+    "bottom": "Five minutes before the deadline"
+  },
+  {
+    "image": "a drawing of a confused Nick Young with question marks around his head",
+    "top": "When someone says they don't like memes",
+    "bottom": ""
+  },
+  {
+    "image": "a screenshot of Spongebob Squarepants and Patrick Star laughing hysterically",
+    "top": "Me and my best friend",
+    "bottom": "Watching funny memes on iFunny"
+  },
+  {
+    "image": "a photo of a woman crying and pointing at a cat sitting at a table with a plate of vegetables",
+    "top": "Woman: You said you were vegan!",
+    "bottom": "Cat: I said I was a vegetarian."
+  },
+  {
+    "image": "a photo of Leonardo DiCaprio holding a glass of champagne and smiling smugly",
+    "top": "When you find out you're the best meme of 2022",
+    "bottom": ""
+  },
+  {
+    "image": "a photo of a man holding a sign that says \"I'm not a gynecologist but I'll take a look\"",
+    "top": "",
+    "bottom": "The audacity of this lad"
+  },
+  {
+    "image": "a photo of a baby with a fist in the air and an angry expression",
+    "top": "When you wake up from your nap",
+    "bottom": "And realize you missed your favorite show"
+  },
+  {
+    "image": "a photo of a penguin wearing a sombrero and a poncho",
+    "top": "",
+    "bottom": "\"I don't always go to Antarctica, but when I do, I bring my own heat.\""
+  },
+  {
+    "image": "a photo of a man wearing a horse mask and holding a guitar",
+    "top": "\"Hey girl, are you a farmer?\"",
+    "bottom": "\"Because you make my heart neigh.\""
+  },
+  {
+    "image": "a photo of Kermit the Frog sipping tea",
+    "top": "\"That's none of my business\"",
+    "bottom": "\"But you should probably stop asking me to generate memes for you.\""
+  }
+]}
+```

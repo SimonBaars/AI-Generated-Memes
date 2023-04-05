@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and a diploma",
+    "top": "I finally graduated",
+    "bottom": "from obedience school"
+  },
+  {
+    "image": "a man holding a sign that says \"I'm not a gynecologist but I'll take a look\"",
+    "top": "",
+    "bottom": "The worst pick-up line ever"
+  },
+  {
+    "image": "a woman looking at two buttons, one says \"eat healthy\" and the other says \"order pizza\"",
+    "top": "",
+    "bottom": "Me every night"
+  },
+  {
+    "image": "a baby with a shocked expression and a hand on his mouth",
+    "top": "When you find out",
+    "bottom": "your mom is your dad"
+  },
+  {
+    "image": "a cat with sunglasses and a hat sitting on a pile of money",
+    "top": "I don't always sell catnip",
+    "bottom": "but when I do, I make a fortune"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "",
+    "bottom": "I'm not lazy, I'm just efficient"
+  },
+  {
+    "image": "a man with a beard and glasses holding a book that says \"How to be cool\"",
+    "top": "",
+    "bottom": "Step one: close this book"
+  },
+  {
+    "image": "a woman crying and eating ice cream",
+    "top": "",
+    "bottom": "\"He's not worth it\" she said, as she ate her fifth pint of Ben & Jerry's"
+  },
+  {
+    "image": "a frog with a crown and a scepter",
+    "top": "",
+    "bottom": "\"It's not easy being green\" - Kermit the King"
+  },
+  {
+    "image": "a man with a confused expression looking at a math equation on a board",
+    "top": "",
+    "bottom": "\"I'm sorry, I can't hear you over the sound of how awesome I am\" - Albert Einstein, probably"
+  }
+]}
+```

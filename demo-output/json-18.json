@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing sunglasses and a hat with the caption \"deal with it\"",
+    "top": "When you finish your homework",
+    "bottom": "Five minutes before it's due"
+  },
+  {
+    "image": "a man holding a sign that says \"I'm not a gynecologist but I'll take a look\"",
+    "top": "When you see a girl with a cough",
+    "bottom": "And you want to be helpful"
+  },
+  {
+    "image": "a woman crying and pointing at a cat sitting at a table with a plate of salad",
+    "top": "Me: Can I have some fries?",
+    "bottom": "Cat: No, you're on a diet"
+  },
+  {
+    "image": "a baby with a shocked expression and a hand on his mouth",
+    "top": "When you hear your mom",
+    "bottom": "Say your full name"
+  },
+  {
+    "image": "a penguin sliding on its belly with the text \"weeeeeee\"",
+    "top": "Me on Friday night",
+    "bottom": "After a long week of work"
+  },
+  {
+    "image": "a man with a confused face looking at a math problem on a board",
+    "top": "Me trying to understand",
+    "bottom": "The plot of Inception"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling with the text \"I don't always drink wine, but when I do, I drink the whole bottle\"",
+    "top": "",
+    "bottom": ""
+  },
+  {
+    "image": "a frog wearing headphones and looking relaxed",
+    "top": "Me listening to music",
+    "bottom": "While the world is falling apart"
+  },
+  {
+    "image": "a man with a surprised face and a hand on his chest with the text \"oh, you\"",
+    "top": "",
+    "bottom": ""
+  },
+  {
+    "image": "a bear waving and smiling with the text \"hello there\"",
+    "top": "",
+    "bottom": ""
+  }
+]}
+```

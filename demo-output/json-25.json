@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma",
+    "top": "When you finally finish your online degree",
+    "bottom": "But you still can't get a job"
+  },
+  {
+    "image": "a cat sitting on a laptop keyboard with a coffee mug next to it",
+    "top": "Me trying to work from home",
+    "bottom": "My cat: I'm about to end this man's whole career"
+  },
+  {
+    "image": "a man wearing a green hat and holding a beer bottle",
+    "top": "Happy St. Patrick's Day!",
+    "bottom": "I'm not Irish, but I'm drunk enough to be"
+  },
+  {
+    "image": "a fusion reactor with a smiley face on it",
+    "top": "When you achieve nuclear fusion",
+    "bottom": "And become hotter than the sun"
+  },
+  {
+    "image": "a woman holding a wedding dress and crying",
+    "top": "When you find out your fiance is cheating on you",
+    "bottom": "But you already bought the dress"
+  },
+  {
+    "image": "a goat wearing sunglasses and a leather jacket",
+    "top": "How I think I look when I dress up",
+    "bottom": "How I actually look"
+  },
+  {
+    "image": "a fish with human teeth and a caption that says 'smasnug'",
+    "top": "",
+    "bottom": ""
+  },
+  {
+    "image": "a baby with a shocked expression and a hand on its mouth",
+    "top": "",
+    "bottom": "When you hear your parents say your name in the other room"
+  },
+  {
+    "image": "a tax form with a red circle around the word 'refund'",
+    "top": "",
+    "bottom": ""
+  },
+  {
+    "image": "",
+    "top": "",
+    "bottom": ""
+  }
+]}
+```

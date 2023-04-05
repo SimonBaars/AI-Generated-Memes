@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing sunglasses and a hat with the caption \"deal with it\"",
+    "top": "",
+    "bottom": "When you ate the last slice of pizza and nobody noticed"
+  },
+  {
+    "image": "a baby with a fist clenched and a determined expression",
+    "top": "When you hear your mom say",
+    "bottom": "\"Who wants ice cream?\""
+  },
+  {
+    "image": "a man pointing at his head with a smug smile",
+    "top": "You can't fail the test",
+    "bottom": "If you don't study for it"
+  },
+  {
+    "image": "a woman crying and a cat looking at her with a sarcastic expression",
+    "top": "Woman: \"He cheated on me with my best friend!\"",
+    "bottom": "Cat: \"Oh no, anyway...\""
+  },
+  {
+    "image": "a penguin sliding on its belly with the caption \"I'm out\"",
+    "top": "",
+    "bottom": "When the teacher says there's homework due tomorrow"
+  },
+  {
+    "image": "a man holding a sign that says \"Change my mind\"",
+    "top": "",
+    "bottom": "\"Pineapple belongs on pizza. Change my mind.\""
+  },
+  {
+    "image": "a woman looking at two buttons with sweat on her forehead",
+    "top": "",
+    "bottom": "\"Reply to his text or leave him on read\""
+  },
+  {
+    "image": "a man laughing and then looking serious",
+    "top": "",
+    "bottom": "\"Me when I see a funny meme vs me when I see someone reposting it\""
+  },
+  {
+    "image": "a dog sitting in a burning house with the caption \"This is fine\"",
+    "top": "",
+    "bottom": "\"Me trying to stay calm during finals week\""
+  },
+  {
+    "image": "a woman whispering to another woman who looks shocked",
+    "top": "",
+    "bottom": "\"I heard he likes memes\""
+  }
+]}
+```

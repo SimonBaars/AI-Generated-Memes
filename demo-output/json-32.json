@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a sombrero and a poncho",
+    "top": "I don't always eat tacos",
+    "bottom": "But when I do, I'm a tacat"
+  },
+  {
+    "image": "a man holding a sign that says 'I'm not a gynecologist but I'll take a look'",
+    "top": "",
+    "bottom": "Trust me, I'm a doctor"
+  },
+  {
+    "image": "a woman looking at two buttons, one says 'stay calm' and the other says 'panic'",
+    "top": "When you see a spider in your room",
+    "bottom": ""
+  },
+  {
+    "image": "a baby with a shocked expression and a hand on his mouth",
+    "top": "",
+    "bottom": "When you fart and it smells like death"
+  },
+  {
+    "image": "a dog wearing sunglasses and a leather jacket",
+    "top": "",
+    "bottom": "Deal with it"
+  },
+  {
+    "image": "a penguin sliding on its belly",
+    "top": "",
+    "bottom": "I'm not lazy, I'm just on energy saving mode"
+  },
+  {
+    "image": "a man pointing at his head and smiling",
+    "top": "",
+    "bottom": "You can't fail a test if you don't take it"
+  },
+  {
+    "image": "a woman crying and holding a glass of wine",
+    "top": "",
+    "bottom": "I don't need therapy, I just need more wine"
+  },
+  {
+    "image": "a frog wearing a crown and a cape",
+    "top": "",
+    "bottom": "Behold, the king of the swamp"
+  },
+  {
+    "image": "a bear holding a fish in its mouth",
+    "top": "",
+    "bottom": "One does not simply walk into Mordor"
+  }
+]}
+```

@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in front of a laptop",
+    "top": "I'm sorry boss",
+    "bottom": "I can't work today. I have a bad case of the zoomies."
+  },
+  {
+    "image": "a dog with a cone around its neck and a sad expression",
+    "top": "When you try to lick your own butt",
+    "bottom": "But the vet says no"
+  },
+  {
+    "image": "a baby with a shocked face and a hand over its mouth",
+    "top": "When you hear your parents",
+    "bottom": "Talking about Santa Claus"
+  },
+  {
+    "image": "a woman holding a glass of wine and smiling smugly",
+    "top": "I don't always drink wine",
+    "bottom": "But when I do, I drink the whole bottle"
+  },
+  {
+    "image": "a man wearing a mask and holding a sign that says 'I'm not a robot'",
+    "top": "CAPTCHA be like",
+    "bottom": "Please select all the squares with traffic lights"
+  },
+  {
+    "image": "a penguin sliding on its belly on the ice",
+    "top": "How I feel on Monday mornings",
+    "bottom": ""
+  },
+  {
+    "image": "a squirrel holding a nut and looking at the camera",
+    "top": "",
+    "bottom": "I'm sorry, did you say something?"
+  },
+  {
+    "image": "a pizza with pineapple toppings and a disgusted face on it",
+    "top": "Pineapple pizza be like",
+    "bottom": "Why does everyone hate me?"
+  },
+  {
+    "image": "a man wearing sunglasses and pointing at the camera",
+    "top": "You know what they say",
+    "bottom": "Suns out, guns out"
+  },
+  {
+    "image": "a woman crying and holding a phone",
+    "top": "When you text your crush",
+    "bottom": "And they reply with 'k'"
+  }
+]}
+```

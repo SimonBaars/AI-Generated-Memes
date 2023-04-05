@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a graduation cap and holding a diploma",
+    "top": "I finally graduated",
+    "bottom": "from the litter box academy"
+  },
+  {
+    "image": "a man with a beard and glasses holding a coffee mug that says 'world's best boss'",
+    "top": "When you're self-employed",
+    "bottom": "and you buy yourself a mug"
+  },
+  {
+    "image": "a leprechaun riding a unicorn over a rainbow",
+    "top": "When you find out",
+    "bottom": "you're 1% Irish on St. Patrick's Day"
+  },
+  {
+    "image": "a woman in a wedding dress running away from a man in a tuxedo",
+    "top": "When he says",
+    "bottom": "'I don't like memes'"
+  },
+  {
+    "image": "a baby with sunglasses and a cigar holding a stack of money",
+    "top": "When you get your tax refund",
+    "bottom": "and you're feeling like a boss"
+  },
+  {
+    "image": "a dog wearing a helmet and goggles sitting in a fighter jet",
+    "top": "When you hear",
+    "bottom": "'who's a good boy?' on the radio"
+  },
+  {
+    "image": "a fish with human teeth smiling at the camera",
+    "top": "When you see someone",
+    "bottom": "eating sushi"
+  },
+  {
+    "image": "a woman crying while holding a spoon and a tub of ice cream",
+    "top": "When you watch",
+    "bottom": "'The Notebook' for the tenth time"
+  },
+  {
+    "image": "a bear wearing a hat and sunglasses sitting in a car",
+    "top": "'Hey, can I borrow your car?'",
+    "bottom": "'Sure, just be careful, it's a little bearly'"
+  },
+  {
+    "image": "a goat wearing a suit and tie standing at a podium",
+    "top": "'Any questions?'",
+    "bottom": "'Yeah, why are you a goat?'"
+  }
+]}
+```

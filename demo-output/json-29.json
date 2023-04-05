@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma with a proud smile",
+    "top": "When you finally finish your online degree",
+    "bottom": "But you still can't get a job"
+  },
+  {
+    "image": "a cat sitting on a laptop keyboard with a smug expression",
+    "top": "When you send an email to your boss",
+    "bottom": "But you accidentally attach a meme instead of a report"
+  },
+  {
+    "image": "a man dressed as a leprechaun holding a pot of gold with a rainbow in the background",
+    "top": "When you find out you won the lottery",
+    "bottom": "But it's April Fools' Day"
+  },
+  {
+    "image": "a woman wearing a wedding dress and crying with mascara running down her face",
+    "top": "When you say yes to the dress",
+    "bottom": "But it's out of your budget"
+  },
+  {
+    "image": "a baby with a shocked expression and a hand over its mouth",
+    "top": "When you hear your parents talking about Santa Claus",
+    "bottom": "And they say he's not real"
+  },
+  {
+    "image": "a coffee mug with a smiley face and the words \"Have a nice day\" on it",
+    "top": "When you drink your morning coffee",
+    "bottom": "But it's decaf"
+  },
+  {
+    "image": "a penguin wearing sunglasses and holding a surfboard",
+    "top": "When you're ready for summer",
+    "bottom": "But you live in Antarctica"
+  },
+  {
+    "image": "a goat wearing a black cloak and holding a scythe",
+    "top": "When you're the goat of death",
+    "bottom": "But you're also cute and fluffy"
+  },
+  {
+    "image": "a woman holding a sign that says \"I said yes!\" with a ring on her finger and a man holding a sign that says \"I said no\" with a sad face",
+    "top": "",
+    "bottom": ""
+  },
+  {
+    "image": "a tax form with the words \"You owe $10,000\" on it and a man laughing hysterically",
+    "top": "",
+    "bottom": ""
+  }
+]}
+```

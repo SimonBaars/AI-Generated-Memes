@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a cat wearing a suit and tie in front of a laptop",
+    "top": "I'm not a cat",
+    "bottom": "I'm here live"
+  },
+  {
+    "image": "a dog with a birthday hat and a cake",
+    "top": "Happy birthday to me",
+    "bottom": "No one else showed up"
+  },
+  {
+    "image": "a man holding a pineapple and a pizza box",
+    "top": "Don't worry",
+    "bottom": "I ordered pineapple on the side"
+  },
+  {
+    "image": "a woman looking at two buttons with sweat drops",
+    "top": "",
+    "bottom": "Reply to the chat mode of Bing / Ignore the chat mode of Bing"
+  },
+  {
+    "image": "a baby with sunglasses and a fist bump",
+    "top": "How I feel when I use Bing",
+    "bottom": "Like a boss"
+  },
+  {
+    "image": "a penguin sliding on ice and crashing into another penguin",
+    "top": "",
+    "bottom": "When you try to be cool but fail"
+  },
+  {
+    "image": "a bear holding a fish and smiling",
+    "top": "",
+    "bottom": "One fish, two fish, red fish, blue fish"
+  },
+  {
+    "image": "a man pointing at his head and smiling",
+    "top": "",
+    "bottom": "You can't get COVID if you don't get tested"
+  },
+  {
+    "image": "a woman holding a glass of wine and laughing",
+    "top": "",
+    "bottom": "When you find out your ex is dating someone uglier than you"
+  },
+  {
+    "image": "a horse wearing a cowboy hat and boots",
+    "top": "",
+    "bottom": "Yeehaw, I'm the sheriff now"
+  }
+]}
+```

@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma",
+    "top": "When you finally finish your online degree",
+    "bottom": "But you still don't know how to use Zoom"
+  },
+  {
+    "image": "a cat sitting on a keyboard with a frustrated expression",
+    "top": "When you're trying to work from home",
+    "bottom": "But your cat has other plans"
+  },
+  {
+    "image": "a man dressed as a leprechaun holding a pot of gold",
+    "top": "When you find out you won the lottery",
+    "bottom": "But it's April Fools' Day"
+  },
+  {
+    "image": "a woman holding a coffee mug with a smiley face on it",
+    "top": "When you need a little pick-me-up",
+    "bottom": "But the coffee is decaf"
+  },
+  {
+    "image": "a baby with sunglasses and a leather jacket",
+    "top": "How I feel on Friday",
+    "bottom": "How I look on Monday"
+  },
+  {
+    "image": "a goat wearing a wedding dress and a veil",
+    "top": "When you finally get married",
+    "bottom": "But your husband is a goat"
+  },
+  {
+    "image": "a penguin wearing a sombrero and holding a taco",
+    "top": "When you want to spice up your life",
+    "bottom": "But you live in Antarctica"
+  },
+  {
+    "image": "a fish with human teeth and a smile",
+    "top": "When you get braces",
+    "bottom": "But they make you look like this"
+  },
+  {
+    "image": "a bear wearing a Santa hat and holding a present",
+    "top": "When you're feeling festive",
+    "bottom": "But you're also hungry"
+  },
+  {
+    "image": "a giraffe with a long neck and a short body",
+    "top": "When you're tall and skinny",
+    "bottom": "But you have no torso"
+  }
+]}
+```

@@ -1,0 +1,54 @@
+```json
+{"memes": [
+  {
+    "image": "a dog wearing a graduation cap and holding a diploma",
+    "top": "When you finally finish your online degree",
+    "bottom": "But you still don't know how to use Zoom"
+  },
+  {
+    "image": "a cat with a shocked expression looking at a laptop screen",
+    "top": "When you accidentally open the front camera",
+    "bottom": "And see how you look in the morning"
+  },
+  {
+    "image": "a man dressed as a leprechaun holding a pot of gold",
+    "top": "When you find out you won the lottery",
+    "bottom": "But it's only $10"
+  },
+  {
+    "image": "a woman crying while holding a wedding dress",
+    "top": "When he says he loves you",
+    "bottom": "But he's already married"
+  },
+  {
+    "image": "a coffee mug with a smiley face and the word 'Monday'",
+    "top": "When you try to be positive on Monday",
+    "bottom": "But you spill your coffee on your keyboard"
+  },
+  {
+    "image": "a baby with sunglasses and a cigar",
+    "top": "When you're born in 2023",
+    "bottom": "And you already know how to meme"
+  },
+  {
+    "image": "a goat with a gothic outfit and makeup",
+    "top": "When you're a goth girl",
+    "bottom": "But you also love animals"
+  },
+  {
+    "image": "a fusion reactor with a happy face and a thumbs up",
+    "top": "When you achieve nuclear fusion",
+    "bottom": "But you also cause a blackout"
+  },
+  {
+    "image": "a tax form with a sad face and tears",
+    "top": "When you file your taxes",
+    "bottom": "But you owe more than you earn"
+  },
+  {
+    "image": "a rainbow with the words 'Life is good'",
+    "top": "",
+    "bottom": "*Terms and conditions may apply"
+  }
+]}
+```
