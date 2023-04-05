@@ -13,7 +13,7 @@ Generating memes using Bing AI, Stable Diffusion WebUI, and the `shitpost` CLI t
 For this project, I opted for a single code file: `src/bing-memes.js`. I made some convenience functions for chatting with Bing, extracting its output, and generating Stable Diffusion images with the WebUI. Then I just loop semi-endlessly to make Bing generate endless memes.
 
 ## Example output
-Demo output for 140 memes can be found in the `demo-output/` folder. Here are some I consider funny:
+Demo output for 300 memes can be found in the `demo-output/` folder. Here are some I consider funny:
 ![Zoom degree meme](./demo-output/meme-0-1.png)
 ![Boss accident meme](./demo-output/meme-0-2.png)
 ![Titanic grief meme](./demo-output/meme-0-4.png)
