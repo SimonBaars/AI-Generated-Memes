@@ -94,7 +94,7 @@ for(let x = 1; x<=1000; x++) {
     let json;
     try {
         json = extractJson(res["response"]);
-        writeFile(outputFolder+"json-"+x+'.json', res["response"]);
+        writeFile(outputFolder+"json-"+x+'.json', JSON.stringify(json));
     } catch (e) {
         clientState[2] = 1;
         continue;
