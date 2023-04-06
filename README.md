@@ -51,7 +51,7 @@ Demo output for 300 memes can be found in the `demo-output/` folder. Here are so
 ![Tinder meme](./demo-output/meme-12-9.png)
 ![Karen meme](./demo-output/meme-13-6.png)
 ![Song stuck in head meme](./demo-output/meme-14-5.png)
-![Judgemental cat meme](./demo-output/meme-14-9.png)
+![Judgemental cat meme](./demo-output/meme-14-8.png)
 ![Coffee addiction meme](./demo-output/meme-15-7.png)
 ![Funny meme](./demo-output/meme-15-8.png)
 ![Dog homework meme](./demo-output/meme-15-10.png)
